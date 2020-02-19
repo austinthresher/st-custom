@@ -1,3 +1,7 @@
+Fork of [suckless st](suckless.org/st) with a few patches applied.
+
+___
+
 st - simple terminal
 --------------------
 st is a simple terminal emulator for X which sucks less.
